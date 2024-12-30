@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Flutter%20Developer&fontSize=60)
 
 #### 지금은 모바일 플랫폼 비즈니스를 위한 앱 프로그래밍에 정진하고 있습니다.
@@ -64,3 +65,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </div>
+
+
