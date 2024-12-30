@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<br>
+
 <h3 align="left">🛠 Tools</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -48,6 +50,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp
 </div>
 
+<br>
+
+<br>
+
+<h3 align="left">📊 GitHub Stats</h3>
+<div align="center">
+  
+  ![rainofmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainofmay&show_icons=true&theme=transparent&hide_title=true&hide_border=true&include_all_commits=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainofmay&layout=compact&theme=transparent&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rainofmay&theme=transparent&hide_border=true)
+</div>
 
 <br>
 
