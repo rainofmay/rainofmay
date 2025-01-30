@@ -76,9 +76,6 @@ Here are some ideas to get you started:
   <a href="mailto:mist00966@gmail.com">
     <img src="https://img.shields.io/badge/mist00966@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&emsp;
-  <a href="https://secretive-behavior-d03.notion.site/Frontend-resume-10ba6935cef8801c8b89fe5900622cae">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
 </div>
 
 
